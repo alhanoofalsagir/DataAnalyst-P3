@@ -9,7 +9,7 @@
 
 ## Table of Contents
 - [Project Overview](#project_overview)
-- [Project Objectives](#Project_Objectives)
+- [Project Objectives](#project_objectives)
 - [Project Details](#details)
   - [Probability](#p)
   - [A/B Test](#abt)
@@ -19,7 +19,7 @@
 ## Project Overview: <a name="project_overview"></a>
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these. For this project, you will understand the results of an A/B test run by an e-commerce website and helping the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-## Project Objectives <a name="Project_Objectives"></a>
+## Project Objectives <a name="project_objectives"></a>
 practice working on A/B testing projects and their practical difficulties
 perform A/B tests and make recommendations backed by computed inferences
 
